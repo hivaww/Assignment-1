@@ -6,3 +6,8 @@
    
     object-fit: cover;
 }
+a{
+    color: green;
+   font-weight: 600;
+   list-style: none;
+}
