@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "Title": "HTML - an introduction",
+    "Author": "Alex",
+    "Descryption": "HTML stands for Hyper Text Markup Language. It is a standard markup language for creating and designing web pages. Html is the base and foundation of most websites that are built so far. HTML is considered as the combination of Hypertext and Markup language. Hypertext is the definition of the link between the web pages and a markup language is used for defining the structure of the web pages. This language is human-readable which is an advantage, and it uses tags to define what manipulation has to be done on the text, images, and other content. HTML uses various tags and elements and attributes which all of them would tell the browser how to properly display the content on the webpages and web browsers. ( you need to make sure to include closing tags). The HTML element is everything from the start tag to the end tag. This language is considered so be simple and easy to learn and follow. On top of that, it is claimed to be easy to use since the implementation of it is simple, you can add any content as like images, Hypertext, videos and etc. And most importantly it is a platform-independent language. HTML is a reasonable markup language for developing web pages. Moreover, it is important to note that this language is supported by almost all browsers which is an advantage. However, there are some disadvantages for this language for example, it can not create a dynamic web page (require other languages) so it can be integrated with other languages like CSS, JavaScript, etc. and for another drawback I can mention that the security feature is not entirely reliable.",
+    "Category": "HTML",
+    "Price": "120kr",
+    "img": "https://www.webdesign.org/img_articles/22535/03.jpg.webp"
+  },
+  {
+    "id": 2,
+    "Title": "HTML5 Pocket Reference",
+    "Author": "Jennifer Robbins",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "HTML",
+    "Price": "145kr",
+    "img": "https://cssdeck.com/blog/wp-content/uploads/2015/03/must-read-html-css-books2.jpg"
+  },
+  {
+    "id": 3,
+    "Title": "HTML5: Up and Running",
+    "Author": "Mark Pilgrim",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "HTML",
+    "Price": "250kr",
+    "img": "https://www.tripwiremagazine.com/wp-content/uploads/2016/10/Introducing-html_thumb.jpg"
+  },
+  {
+    "id": 4,
+    "Title": "HTML in Easy Steps",
+    "Author": "Mike McGrath",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "HTML",
+    "Price": "165kr",
+    "img": "https://ineasysteps.com/wp-content/uploads/2022/06/9781840788761-scaled-1-768x937.jpg"
+  },
+  {
+    "id": 5,
+    "Title": "HTML5 for Masterminds",
+    "Author": "J.D Gauchat",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "HTML",
+    "Price": "240kr",
+    "img": "https://cssdeck.com/blog/wp-content/uploads/2015/03/must-read-html-css-books.jpg"
+  },
+  {
+    "id": 6,
+    "Title": "JavaScript - an introduction",
+    "Author": "Margaret",
+    "Descryption": "JavaScript is a high level, dynamic programming language. Which It enables you to create dynamically updating content, creating responsive web pages, control multimedia, animate images, and etc. JavaScript is a programming language that allows you to implement complex features on web pages. This programming language is still considered an interpreted language because the compilation is handled at run time, and not ahead of time. JavaScript enables developers to create a wide range of web applications, from simple animations to complex web applications. On top of that it let developers to have interactions with DOM (Document Object Model) and manipulate HTML and CSS elements. There plenty of JavaScript usage. However, a very common use of JavaScript is to dynamically modify HTML and CSS to update a user interface, via the Document Object Model (DOM) API. JavaScript Runs in order, which this means, when the browser encounters a block of JavaScript, it generally runs it in order, from top to bottom. therefore, you need to be careful what order you put things in. Because Errors may occur if JavaScript is loaded and run before the HTML and CSS that it is intended to modify. JavaScript is an integral part of web functionality; JavaScript commands can be typed directly into an HTML document and web browsers will be able to understand them. JavaScript can be used for: adding interactivity into the websites, developing mobile applications, creating web browsers-based games and back-end web developments. Some advantages of JavaScript are:  The speed of it, which is very fast, Server Load (because JavaScript is client-side, it reduces the demand on servers overall), versatility and rich interfaces. On the other hand, the re are some disadvantages of this language: Client-Side Security (Since JavaScript code is executed on the client-side, bugs and oversights can sometimes be exploited for malicious purposes",
+    "Category": "JavaScript",
+    "Price": "215kr",
+    "img": "https://eloquentjavascript.net/2nd_edition/img/cover.png"
+  },
+  {
+    "id": 7,
+    "Title": "Best JavaScript Books for Beginners",
+    "Author": "Mark Myers",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "JavaScript",
+    "Price": "125kr",
+    "img": "https://d3h2k7ug3o5pb3.cloudfront.net/image/2020-12-17/59c48650-4038-11eb-b4c7-c5e52e690177.jpg"
+  },
+  {
+    "id": 8,
+    "Title": "JavaScript: The Definitive Guide",
+    "Author": "David Flanagan",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "JavaScript",
+    "Price": "230kr",
+    "img": "https://d3h2k7ug3o5pb3.cloudfront.net/image/2020-12-17/69e343a0-4038-11eb-b4c7-c5e52e690177.jpg"
+  },
+  {
+    "id": 9,
+    "Title": "You Don’t Know JS",
+    "Author": "Kyle Simpson",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "JavaScript",
+    "Price": "180kr",
+    "img": "https://d3h2k7ug3o5pb3.cloudfront.net/image/2020-12-17/76790140-4038-11eb-b4c7-c5e52e690177.jpg"
+  },
+  {
+    "id": 10,
+    "Title": "Beginning JavaScript",
+    "Author": "Jeremy McPeak and Paul Wilton",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "JavaScript",
+    "Price": "110kr",
+    "img": "https://d3h2k7ug3o5pb3.cloudfront.net/image/2020-12-17/807416d0-4038-11eb-b4c7-c5e52e690177.jpg"
+  },
+  {
+    "id": 11,
+    "Title": "CSS - an introduction",
+    "Author": "Eric A. Meyer & Estelle Weyl",
+    "Descryption": "CSS stands for Cascading Style Sheets. CSS is a rule-based language, this means the rules are set by specifying groups of styles that should be applied to elements on the web page. CSS is used to specify how documents are presented to users, for example: how they are styled, their colour, fonts size and etc. Moreover, it distinguish the presentation of the web page from its content. CSS allow web designers to have control over how an internet site communicates with web browsers including the formatting and display of their HTML documents and making changes to the design of a website without having to change to underlaying HTML code. CSS handles the design. With using CSS, you will have control of the color of the text, the design of fonts, the spacing between paragraphs and etc. Some advantages of CSS could be mentioned as below: With using CSS you simply got to define a style for element once and then can use it multiple times and the style is applied consistently over the sites. It makes programming easier for Web designers since they need to use few lines of programming for every page. so, it kind of helps to have spontaneous and consistent changes.  CSS language is considered easy for the user to customize the online page. And lastly, it reduces the file transfer resize. On the other hand, CSS has some draw backs as well which some of them could be mentioned as below: In this language there is lack of security. After making the changes we need to confirm the compatibility if they appear. While using CSS there might be cross-browser issues. On top of that, there are multiple levels of this language which could lead to creating confusion for non-developers and beginners.",
+    "Category": "CSS",
+    "Price": "230kr",
+    "img": "https://computelogy.com/wp-content/uploads/2018/09/mastering-css-ebook-cover-title-page-by-Rich-Finelli.png.webp"
+  },
+  {
+    "id": 12,
+    "Title": "CSS: The Definitive Guide",
+    "Author": "Cordie",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "CSS",
+    "Price": "160kr",
+    "img": "https://cssdeck.com/blog/wp-content/uploads/2015/03/must-read-html-css-books4.jpg"
+  },
+  {
+    "id": 13,
+    "Title": "Learning Web Design",
+    "Author": "Jennifer Neiderst Robbins",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "CSS",
+    "Price": "190kr",
+    "img": "https://cssdeck.com/blog/wp-content/uploads/2015/03/must-read-html-css-books5.jpg"
+  },
+  {
+    "id": 14,
+    "Title": " CSS in Depth",
+    "Author": "Keith J.Grant",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "CSS",
+    "Price": "180kr",
+    "img": "https://cssdeck.com/blog/wp-content/uploads/2015/03/must-read-html-css-books7.jpg"
+  },
+  {
+    "id": 15,
+    "Title": "CSS Cookbook 3e",
+    "Author": "Christopher Schmitt",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "CSS",
+    "Price": "220kr",
+    "img": "https://cssdeck.com/blog/wp-content/uploads/2015/03/must-read-html-css-books9.jpg"
+  },
+  {
+    "id": 16,
+    "Title": "Responsive design with Bootstrap",
+    "Author": "Don Norman",
+    "Descryption": "",
+    "Category": "UX",
+    "Price": "140kr",
+    "img": "https://designmodo.com/wp-content/uploads/2017/06/How_to_Write_Great_Website_Content_in_2017_Andy_Williams.jpg"
+  },
+  {
+    "id": 17,
+    "Title": "How to Build Habit-Forming Products",
+    "Author": "Nir Eyal",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "UX",
+    "Price": "130kr",
+    "img": "https://designmodo.com/wp-content/uploads/2017/06/Hello_Design_World_Mason_Gentry.jpg"
+  },
+  {
+    "id": 18,
+    "Title": "Don’t Make Me Think",
+    "Author": "Steve Krug",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "UX",
+    "Price": "170kr",
+    "img": "https://designmodo.com/wp-content/uploads/2017/06/Bottlenecks_David_C_Evans.jpg"
+  },
+  {
+    "id": 19,
+    "Title": "A Research and Design Survival Guide",
+    "Author": "Leah Buley",
+    "Descryption": "",
+    "Category": "UX",
+    "Price": "220kr",
+    "img": "https://designmodo.com/wp-content/uploads/2017/06/Designing_with_Data_-Rochelle_King.jpg"
+  },
+  {
+    "id": 20,
+    "Title": "Rocket Surgery Made Easy ",
+    "Author": "Steve Krug",
+    "Descryption": "Lectus mauris ultrices eros in cursus turpis massa. Massa id neque aliquam vestibulum. Nunc faucibus a pellentesque sit. Eget duis at tellus at urna condimentum. Interdum velit laoreet id donec ultrices. Et odio pellentesque diam volutpat commodo. Pharetra et ultrices neque ornare aenean euismod. Aenean vel elit scelerisque mauris pellentesque. Turpis tincidunt id aliquet risus feugiat in ante metus. Amet purus gravida quis blandit turpis. Vulputate ut pharetra sit amet aliquam. Euismod in pellentesque massa placerat duis. Sociis natoque penatibus et magnis. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Gravida rutrum quisque non tellus orci.",
+    "Category": "UX",
+    "Price": "150kr",
+    "img": "https://designmodo.com/wp-content/uploads/2017/06/Heart_of_the_Machine_Richar_Yonck.jpg"
+  }
+]
